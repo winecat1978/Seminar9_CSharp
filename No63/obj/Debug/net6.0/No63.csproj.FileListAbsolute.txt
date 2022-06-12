@@ -1,0 +1,15 @@
+C:\Users\mob19\Seminar9\No63\bin\Debug\net6.0\No63.exe
+C:\Users\mob19\Seminar9\No63\bin\Debug\net6.0\No63.deps.json
+C:\Users\mob19\Seminar9\No63\bin\Debug\net6.0\No63.runtimeconfig.json
+C:\Users\mob19\Seminar9\No63\bin\Debug\net6.0\No63.dll
+C:\Users\mob19\Seminar9\No63\bin\Debug\net6.0\No63.pdb
+C:\Users\mob19\Seminar9\No63\obj\Debug\net6.0\No63.csproj.AssemblyReference.cache
+C:\Users\mob19\Seminar9\No63\obj\Debug\net6.0\No63.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mob19\Seminar9\No63\obj\Debug\net6.0\No63.AssemblyInfoInputs.cache
+C:\Users\mob19\Seminar9\No63\obj\Debug\net6.0\No63.AssemblyInfo.cs
+C:\Users\mob19\Seminar9\No63\obj\Debug\net6.0\No63.csproj.CoreCompileInputs.cache
+C:\Users\mob19\Seminar9\No63\obj\Debug\net6.0\No63.dll
+C:\Users\mob19\Seminar9\No63\obj\Debug\net6.0\refint\No63.dll
+C:\Users\mob19\Seminar9\No63\obj\Debug\net6.0\No63.pdb
+C:\Users\mob19\Seminar9\No63\obj\Debug\net6.0\No63.genruntimeconfig.cache
+C:\Users\mob19\Seminar9\No63\obj\Debug\net6.0\ref\No63.dll
