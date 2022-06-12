@@ -1,0 +1,15 @@
+C:\Users\mob19\Seminar9\No69\bin\Debug\net6.0\No69.exe
+C:\Users\mob19\Seminar9\No69\bin\Debug\net6.0\No69.deps.json
+C:\Users\mob19\Seminar9\No69\bin\Debug\net6.0\No69.runtimeconfig.json
+C:\Users\mob19\Seminar9\No69\bin\Debug\net6.0\No69.dll
+C:\Users\mob19\Seminar9\No69\bin\Debug\net6.0\No69.pdb
+C:\Users\mob19\Seminar9\No69\obj\Debug\net6.0\No69.csproj.AssemblyReference.cache
+C:\Users\mob19\Seminar9\No69\obj\Debug\net6.0\No69.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mob19\Seminar9\No69\obj\Debug\net6.0\No69.AssemblyInfoInputs.cache
+C:\Users\mob19\Seminar9\No69\obj\Debug\net6.0\No69.AssemblyInfo.cs
+C:\Users\mob19\Seminar9\No69\obj\Debug\net6.0\No69.csproj.CoreCompileInputs.cache
+C:\Users\mob19\Seminar9\No69\obj\Debug\net6.0\No69.dll
+C:\Users\mob19\Seminar9\No69\obj\Debug\net6.0\refint\No69.dll
+C:\Users\mob19\Seminar9\No69\obj\Debug\net6.0\No69.pdb
+C:\Users\mob19\Seminar9\No69\obj\Debug\net6.0\No69.genruntimeconfig.cache
+C:\Users\mob19\Seminar9\No69\obj\Debug\net6.0\ref\No69.dll
